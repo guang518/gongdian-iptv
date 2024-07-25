@@ -137,6 +137,7 @@ http://59.48.75.130:3052/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.40.237.138:9999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视高清",天津卫视
+http://123.189.36.39:9901/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.23.26.70:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.40.237.138:9999/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
 http://175.8.86.204:9998/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -371,6 +372,40 @@ http://36.249.150.192:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视高清",西藏卫视
 http://123.189.36.39:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="" group-title="影视专场",家庭影院
+http://123.189.36.4:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="" group-title="影视专场",动作电影
+http://123.189.36.4:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.39:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="" group-title="影视专场",影迷电影
+http://123.189.36.4:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="移动电视" tvg-name="移动电视" tvg-logo="" group-title="影视专场",移动电视
+http://123.189.36.4:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.39:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="" group-title="影视专场",第一剧场
+http://123.189.36.4:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.39:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="BTV影视" tvg-name="BTV影视" tvg-logo="" group-title="影视专场",BTV影视
+http://114.254.82.142:88/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="BTV卡酷" tvg-name="BTV卡酷" tvg-logo="" group-title="动画专场",BTV卡酷
+http://114.254.82.142:88/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.39:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="" group-title="动画专场",优漫卡通
+http://175.8.213.198:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.4:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="佳嘉卡通" tvg-name="佳嘉卡通" tvg-logo="" group-title="动画专场",佳嘉卡通
+http://123.189.36.4:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="" group-title="动画专场",哈哈炫动
+http://175.8.213.198:8081/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="" group-title="动画专场",新动漫
+http://123.189.36.4:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="" group-title="动画专场",金鹰卡通
+http://175.8.86.204:9998/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.4:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.39:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="" group-title="风云足球",风云足球
+http://123.189.36.4:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.39:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="广播电台",Big B Radio-中文流行
 http://cpop.bigbradio.net/s
