@@ -350,7 +350,27 @@ http://59.48.75.130:3052/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.23.26.184:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="上海卫视" tvg-name="上海卫视" tvg-logo="" group-title="卫视高清",上海卫视
 http://183.94.1.118:8801/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.4:9901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.39:9901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0
 http://118.81.54.64:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视高清",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+http://123.189.36.4:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视高清",农林卫视
+http://123.189.36.4:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.39:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视高清",新疆卫视
+http://123.189.36.4:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.189.36.39:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视高清",海南卫视
+http://123.189.36.4:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+http://175.8.213.198:8081/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://36.40.237.138:9999/tsfile/live/0121_2.m3u8?key=txiptv&playlive=0&authid=0
+http://58.23.26.184:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://36.249.150.192:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视高清",西藏卫视
+http://123.189.36.39:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="广播电台",Big B Radio-中文流行
 http://cpop.bigbradio.net/s
