@@ -7,6 +7,7 @@ http://183.185.254.132:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid
 http://123.138.216.44:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://175.8.213.198:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
+http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 http://183.94.1.118:8801/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://113.220.234.251:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.185.254.132:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -179,6 +180,7 @@ http://123.189.36.4:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
 http://123.189.36.39:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视
+
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 http://123.189.36.39:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 http://123.189.36.4:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -208,6 +210,7 @@ http://59.48.75.130:3052/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.40.237.138:9999/tsfile/live/0132_3.m3u8?key=txiptv&playlive=0&authid=0
 http://123.189.36.4:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 http://175.8.86.204:9998/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 http://171.118.222.151:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.185.254.132:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
