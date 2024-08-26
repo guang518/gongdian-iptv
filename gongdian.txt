@@ -181,9 +181,9 @@ CGTN英语,https://0472.org/hls/cgtnd.m3u8
 贵州卫视,http://60.208.104.234:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://101.27.36.164:2888/hls/39/index.m3u8
 
+海南卫视,http://123.166.61.70:8003/hls/63/index.m3u8
 海南卫视,http://123.189.36.7:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://221.213.69.82:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
-海南卫视,http://123.166.61.70:8003/hls/63/index.m3u8
 海南卫视,http://60.208.104.234:352/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb01.m3u8?auth_key=1706667432-0-0-efcd19318c6ec43089f60ae37ed96646
 
@@ -287,9 +287,9 @@ CGTN英语,https://0472.org/hls/cgtnd.m3u8
 
 西藏卫视,http://117.72.68.25:9930/xizang.php?id=0
 
+云南卫视,http://119.163.199.98:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://123.189.36.7:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://123.189.36.155:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://119.163.199.98:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://183.94.1.118:8801/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -317,8 +317,8 @@ CGTN英语,https://0472.org/hls/cgtnd.m3u8
 大话西游至尊宝,http://nas.dylove.xyz:35455/yy/1382736910
 美国队长史蒂夫,http://nas.dylove.xyz:35455/yy/1382736813
 变形金刚,http://nas.dylove.xyz:35455/yy/1382736803
-电影_赛车,http://cfss.cc/cdn/hy/11279247.flv
-电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
+赛车,http://cfss.cc/cdn/hy/11279247.flv
+死神来了,http://cfss.cc/cdn/hy/11352903.flv
 
 广播电台,#genre#
 Big B Radio-中文流行,http://cpop.bigbradio.net/s
