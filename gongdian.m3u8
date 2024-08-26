@@ -138,7 +138,10 @@ http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 http://123.132.233.194:352/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.77.28.4:8648/mgu.php?id=cctv17
 
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CCTVCGTN
+#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
 
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视频道",安多卫视
@@ -214,9 +217,9 @@ http://60.208.104.234:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 http://101.27.36.164:2888/hls/39/index.m3u8
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
+http://123.166.61.70:8003/hls/63/index.m3u8
 http://123.189.36.7:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.213.69.82:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
-http://123.166.61.70:8003/hls/63/index.m3u8
 http://60.208.104.234:352/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 https://livelyws.chinamcache.com/lyws/newzb01.m3u8?auth_key=1706667432-0-0-efcd19318c6ec43089f60ae37ed96646
 
@@ -340,9 +343,9 @@ http://219.159.147.195:9901/tsfile/live/1037_1.m3u8?key=txiptv
 http://117.72.68.25:9930/xizang.php?id=0
 
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
+http://119.163.199.98:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 http://123.189.36.7:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 http://123.189.36.155:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
-http://119.163.199.98:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -390,9 +393,9 @@ http://nas.dylove.xyz:35455/yy/1382736910
 http://nas.dylove.xyz:35455/yy/1382736813
 #EXTINF:-1 tvg-id="变形金刚" tvg-name="变形金刚" tvg-logo="https://live.fanmingming.com/tv/变形金刚.png" group-title="经典电影",变形金刚
 http://nas.dylove.xyz:35455/yy/1382736803
-#EXTINF:-1 tvg-id="电影_赛车" tvg-name="电影_赛车" tvg-logo="https://live.fanmingming.com/tv/电影_赛车.png" group-title="经典电影",电影_赛车
+#EXTINF:-1 tvg-id="赛车" tvg-name="赛车" tvg-logo="https://live.fanmingming.com/tv/赛车.png" group-title="经典电影",赛车
 http://cfss.cc/cdn/hy/11279247.flv
-#EXTINF:-1 tvg-id="电影_死神来了" tvg-name="电影_死神来了" tvg-logo="https://live.fanmingming.com/tv/电影_死神来了.png" group-title="经典电影",电影_死神来了
+#EXTINF:-1 tvg-id="死神来了" tvg-name="死神来了" tvg-logo="https://live.fanmingming.com/tv/死神来了.png" group-title="经典电影",死神来了
 http://cfss.cc/cdn/hy/11352903.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="广播电台",Big B Radio-中文流行
