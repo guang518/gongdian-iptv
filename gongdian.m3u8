@@ -129,10 +129,10 @@ http://123.189.36.155:9901/tsfile/live/1027_1.m3u8
 http://123.189.36.7:9901/tsfile/live/1027_1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://123.189.36.155:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
-http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 http://123.132.233.194:352/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://58.48.37.158:1111/tsfile/live/0017_1.m3u8
+http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 http://120.77.28.4:8648/mgu.php?id=cctv17
 
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
