@@ -154,7 +154,6 @@ CGTN记录,https://0472.org/hls/cgtnd.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-甘肃卫视,http://110.189.102.15:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://home.oxtv.top:5066/udp/239.21.2.22:5002
 甘肃卫视,http://202.100.46.58:9901/tsfile/live/1035_1.m3u8
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
