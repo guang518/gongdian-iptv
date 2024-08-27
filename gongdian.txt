@@ -93,10 +93,8 @@ CCTV14,http://61.157.139.15:9901/tsfile/live/2384_1.m3u8?key=txiptv&playlive=1&a
 CCTV14,http://60.208.104.234:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14,http://120.77.28.4:8648/mgu.php?id=cctv14
 
-CCTV15,http://110.189.102.15:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV15,http://60.208.104.234:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://123.166.61.70:8003/hls/44/index.m3u8
-CCTV15,http://222.241.154.37:9901/tsfile/live/23015_1.m3u8?key=txiptv
 CCTV15,http://120.77.28.4:8648/mgu.php?id=cctv15
 CCTV15,http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://183.94.1.118:8801/tsfile/live/0015_1.m3u8
