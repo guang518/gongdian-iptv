@@ -189,10 +189,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:74F1:0021::0008]/000000001000PLTV/88888888/224/3221226450/index.m3u8
 http://123.166.61.70:8003/hls/63/index.m3u8
 http://123.189.36.7:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.213.69.82:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+http://60.208.104.234:352/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+https://livelyws.chinamcache.com/lyws/newzb01.m3u8?auth_key=1706667432-0-0-efcd19318c6ec43089f60ae37ed96646
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8
