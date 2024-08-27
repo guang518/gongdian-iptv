@@ -108,10 +108,10 @@ CCTV16,http://110.178.38.156:8083/udp/239.1.1.122:8122
 CCTV16,http://123.189.36.155:9901/tsfile/live/1027_1.m3u8
 CCTV16,http://123.189.36.7:9901/tsfile/live/1027_1.m3u8
 
-CCTV17,http://123.189.36.155:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://123.132.233.194:352/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://58.48.37.158:1111/tsfile/live/0017_1.m3u8
+CCTV17,http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://120.77.28.4:8648/mgu.php?id=cctv17
 
 CGTN英语,https://0472.org/hls/cgtnd.m3u8
