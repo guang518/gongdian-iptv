@@ -1,12 +1,17 @@
 央视,#genre#
-CCTV1,http://119.163.199.98:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
 CCTV1,http://60.208.104.234:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://120.77.28.4:8648/mgu.php?id=cctv1
+CCTV1,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV2,http://110.189.102.15:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV2,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
+CCTV2,http://1.183.141.194:8001/hls/2/index.m3u8
 CCTV2,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://219.159.147.195:9901/tsfile/live/1019_1.m3u8
+CCTV2,http://fangke.blueswords.com:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV3,http://183.94.1.118:8801/tsfile/live/0003_1.m3u8
 CCTV3,http://111.9.163.109:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
