@@ -21,8 +21,6 @@ CCTV4,http://60.208.104.234:352/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&au
 CCTV4,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.214:4220
 CCTV4,http://61.136.67.238:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV5,https://epg.pw/stream/ad4ac1045a67c7e1dfb4a3dd822179a3119cd4f30f49dbe1cf9e317e7059a85f.m3u8
-CCTV5,https://epg.pw/stream/611712b3f1e1821cc2045941ecf5754be975188b03f360a6988cb258871f444f.m3u8
 CCTV5,http://110.189.102.15:9901/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV5,http://123.114.19.80:4000/rtp/239.3.1.173:8001
 CCTV5,http://112.46.85.60:8009/hls/503/index.m3u8
