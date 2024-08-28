@@ -65,13 +65,10 @@ CCTV10,http://120.77.28.4:8648/mgu.php?id=cctv10
 CCTV10,http://36.248.137.69:60033/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV11,http://183.94.1.118:8801/tsfile/live/0011_1.m3u8
-CCTV11,https://epg.pw/stream/1980a78116511f29dafdfa41489fce7e543496c6b77c79ae56edeb3406470caa.m3u8
 CCTV11,http://119.163.199.98:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://222.134.245.16:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://58.48.37.158:1111/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://123.189.36.7:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://60.208.104.234:352/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11,http://202.100.46.58:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV12,https://epg.pw/stream/b6322d2366419f8dc6b9c22f706707832b478b77a483eee013670df2ab6d396e.m3u8
 CCTV12,http://61.163.181.78:9901/tsfile/live/0012_1.m3u8
 CCTV12,http://61.157.139.15:9901/tsfile/live/2382_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.64:8124
@@ -80,7 +77,6 @@ CCTV12,http://120.77.28.4:8648/mgu.php?id=cctv12
 CCTV13,https://epg.pw/stream/5eff6ce6035c5ed07464e6c1a9482968c86bde95d5625615c4b87c15ef745dba.m3u8
 CCTV13,http://omnix.cn:4000/udp/225.1.8.168:8130
 CCTV13,http://202.100.46.58:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://123.189.36.155:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://124.128.73.58:9901/tsfile/live/0013_1.m3u8
 
 CCTV14,http://183.94.1.118:8801/tsfile/live/0014_1.m3u8
@@ -93,16 +89,12 @@ CCTV15,http://60.208.104.234:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 CCTV15,http://123.166.61.70:8003/hls/44/index.m3u8
 CCTV15,http://120.77.28.4:8648/mgu.php?id=cctv15
 CCTV15,http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://183.94.1.118:8801/tsfile/live/0015_1.m3u8
 
 CCTV16,http://123.166.61.70:8003/hls/16/index.m3u8
-CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
-CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 CCTV16,http://110.178.52.111:8083/udp/239.1.1.122:8122
-CCTV16,http://123.189.36.7:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://110.178.38.156:8083/udp/239.1.1.122:8122
-CCTV16,http://123.189.36.155:9901/tsfile/live/1027_1.m3u8
-CCTV16,http://123.189.36.7:9901/tsfile/live/1027_1.m3u8
+CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
+CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 
 CCTV17,http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://123.132.233.194:352/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
