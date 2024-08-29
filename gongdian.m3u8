@@ -142,10 +142,10 @@ http://stream.qhbtv.com/adws/playlist.m3u8
 http://stream.qhbtv.com/adws/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://223.151.51.74:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.94.1.118:8801/tsfile/live/0130_1.m3u8
-http://223.151.51.74:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-http://223.151.51.74:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 http://123.113.98.224:4022/rtp/239.3.1.211:8064
+http://59.173.183.242:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://61.163.181.78:9901/tsfile/live/1043_1.m3u8
@@ -189,9 +189,9 @@ rtmp://livein.gstv.com.cn/49048r/y3nga4
 http://nas.hssvm.com:8888/rtp/225.1.1.159:5002
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://183.94.1.118:8801/tsfile/live/0125_1.m3u8
 http://222.134.245.16:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 http://123.138.216.44:9902/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.94.1.118:8801/tsfile/live/0125_1.m3u8
 https://stream1.freetv.fun/cee5cfaf0047e43df21ed1d00f03bcd3398f730317feabca730b45edfcb9d3bb.m3u8
 
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
@@ -224,9 +224,9 @@ http://121.18.43.254:10000/hls/18/index.m3u8
 http://114.246.98.16:8012/rtp/239.3.1.148:8072
 
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://183.94.1.118:8801/tsfile/live/1006_1.m3u8
 http://111.160.17.2:59902/tsfile/live/0139_1.m3u8
 http://123.138.216.44:9902/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.94.1.118:8801/tsfile/live/1006_1.m3u8
 http://117.72.68.25:9930/hn.php?id=hnws
 
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -237,18 +237,19 @@ http://223.151.51.74:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 http://121.18.43.254:10000/hls/29/index.m3u8
 
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://183.94.1.118:8801/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.51.111.46:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 http://219.147.200.9:18080/newlive/live/hls/42/live.m3u8
-http://219.159.147.195:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.213.69.82:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+http://183.94.1.118:8801/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+http://219.159.147.195:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://61.163.181.78:9901/tsfile/live/1045_1.m3u8
-http://183.94.1.118:8801/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-https://stream1.freetv.fun/f2b4f1257679ac5705b60ad927003ba3615bfa2b88e85f60f77cea00c422b661.m3u8
 http://223.151.51.74:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+http://61.163.181.78:9901/tsfile/live/1045_1.m3u8
 http://119.163.199.98:9901/tsfile/live/0017_1.m3u8
+http://61.162.52.6:8088/newlive/live/hls/19/live.m3u8
+https://stream1.freetv.fun/f2b4f1257679ac5705b60ad927003ba3615bfa2b88e85f60f77cea00c422b661.m3u8
+http://202.100.46.58:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://111.160.17.2:59902/tsfile/live/0116_1.m3u8
@@ -256,24 +257,23 @@ http://101.27.36.164:2888/hls/41/index.m3u8
 http://222.130.146.175:8888/rtp/239.3.1.240:8172
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://183.94.1.118:8801/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 http://61.163.181.78:9901/tsfile/live/1044_1.m3u8
 http://ygbh.live/js.php?id=jsws
 http://113.26.167.187:8084/udp/239.1.1.35:8035
+http://183.94.1.118:8801/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 http://119.98.133.130:4000/udp/239.69.1.174:10680
 
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://183.94.1.118:8801/tsfile/live/0138_1.m3u8
 http://123.138.216.44:9902/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.51.111.46:1111/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 http://119.163.199.98:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 http://223.151.51.74:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://183.94.1.118:8801/tsfile/live/0121_1.m3u8
 http://101.27.36.164:2888/hls/30/index.m3u8
 http://219.159.147.195:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 http://61.162.52.6:8088/newlive/live/hls/30/live.m3u8
+http://183.94.1.118:8801/tsfile/live/0121_1.m3u8
 http://61.157.139.15:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
@@ -317,11 +317,11 @@ http://124.94.193.136:9902/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=
 http://222.241.154.37:9901/tsfile/live/23035_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://183.94.1.118:8801/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-http://123.138.216.44:9902/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 http://219.147.200.9:18080/newlive/live/hls/48/live.m3u8
 http://101.27.36.164:2888/hls/33/index.m3u8
 http://60.208.104.234:352/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.94.1.118:8801/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.138.216.44:9902/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://121.18.43.254:10000/hls/25/index.m3u8
