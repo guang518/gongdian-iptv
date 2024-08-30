@@ -76,8 +76,8 @@ CCTV11,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000508
 CCTV11,http://123.138.216.44:9902/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://61.157.139.15:9901/tsfile/live/2381_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV12,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000509
 CCTV12,http://61.163.181.78:9901/tsfile/live/0012_1.m3u8
+CCTV12,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000509
 CCTV12,http://36.249.151.144:9901/tsfile/live/0014_1.m3u8
 CCTV12,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.64:8124
 CCTV12,http://61.157.139.15:9901/tsfile/live/2382_1.m3u8?key=txiptv&playlive=1&authid=0
