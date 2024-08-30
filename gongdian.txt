@@ -180,8 +180,14 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 广东卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000520
 广东卫视,http://123.138.216.44:9902/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广西卫视,http://221.213.69.82:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://119.163.199.98:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://111.61.236.247:9081/hls/44/index.m3u8
 广西卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000034
+广西卫视,http://61.138.128.226:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://www.dsmcloud.top:8888/udp/239.81.0.107:4056
+广西卫视,http://61.136.67.238:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://221.0.78.198:1681/hls/10239/index.m3u8
+广西卫视,http://124.94.193.136:9902/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://222.241.154.37:9901/tsfile/live/23039_1.m3u8?key=txiptv&playlive=1&authid=0
 
 贵州卫视,http://124.205.11.239:91/live/GZWShd-8M/live.m3u8
