@@ -124,6 +124,12 @@ CGTN英语,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
+文化精品,http://php.jdshipin.com/TVOD/iptv.php?id=whjp
+风云剧场,http://php.jdshipin.com/TVOD/iptv.php?id=fyjc
+第一剧场,http://php.jdshipin.com/TVOD/iptv.php?id=dyjc
+风云音乐,http://php.jdshipin.com/TVOD/iptv.php?id=fyyy
+风云足球,http://php.jdshipin.com/TVOD/iptv.php?id=fyzq
+
 卫视,#genre#
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
