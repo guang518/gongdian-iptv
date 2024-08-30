@@ -378,3 +378,124 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226339/index.m3u8
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+
+#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1983年春晚
+http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1984年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1985年春晚
+http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1986年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1987年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1988年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1989年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1992年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1993年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1994年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1995年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1996年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1997年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1998年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",1999年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2000年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2001年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2002年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2003年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2004年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2005年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2006年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2007年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2008年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2009年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2010年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2011年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2012年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2013年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2014年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2015年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2016年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2017年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2018年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2019年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2020年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2021年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="https://gongdian.top/tv/logo/chunwan.jpg" group-title="春晚",2022年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+
+
+#EXTINF:-1 tvg-id="倩女幽魂妖魔道" tvg-name="倩女幽魂妖魔道" tvg-logo="https://live.fanmingming.com/tv/倩女幽魂妖魔道.png" group-title="经典电影",倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1 tvg-id="倩女幽魂人间道" tvg-name="倩女幽魂人间道" tvg-logo="https://live.fanmingming.com/tv/倩女幽魂人间道.png" group-title="经典电影",倩女幽魂人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1 tvg-id="倩女幽魂道道道" tvg-name="倩女幽魂道道道" tvg-logo="https://live.fanmingming.com/tv/倩女幽魂道道道.png" group-title="经典电影",倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+#EXTINF:-1 tvg-id="让子弹飞" tvg-name="让子弹飞" tvg-logo="https://live.fanmingming.com/tv/让子弹飞.png" group-title="经典电影",让子弹飞
+https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+#EXTINF:-1 tvg-id="龙门飞甲" tvg-name="龙门飞甲" tvg-logo="https://live.fanmingming.com/tv/龙门飞甲.png" group-title="经典电影",龙门飞甲
+https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
+#EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://live.fanmingming.com/tv/人在囧途.png" group-title="经典电影",人在囧途
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+#EXTINF:-1 tvg-id="人在囧途之泰囧" tvg-name="人在囧途之泰囧" tvg-logo="https://live.fanmingming.com/tv/人在囧途之泰囧.png" group-title="经典电影",人在囧途之泰囧
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+#EXTINF:-1 tvg-id="人在囧途之港囧" tvg-name="人在囧途之港囧" tvg-logo="https://live.fanmingming.com/tv/人在囧途之港囧.png" group-title="经典电影",人在囧途之港囧
+https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+#EXTINF:-1 tvg-id="人在囧途之囧妈" tvg-name="人在囧途之囧妈" tvg-logo="https://live.fanmingming.com/tv/人在囧途之囧妈.png" group-title="经典电影",人在囧途之囧妈
+https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
+#EXTINF:-1 tvg-id="无间道1" tvg-name="无间道1" tvg-logo="https://live.fanmingming.com/tv/无间道1.png" group-title="经典电影",无间道1
+https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+#EXTINF:-1 tvg-id="无间道3:终极无间" tvg-name="无间道3:终极无间" tvg-logo="https://live.fanmingming.com/tv/无间道3:终极无间.png" group-title="经典电影",无间道3:终极无间
+https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
+#EXTINF:-1 tvg-id="拆弹专家1" tvg-name="拆弹专家1" tvg-logo="https://live.fanmingming.com/tv/拆弹专家1.png" group-title="经典电影",拆弹专家1
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+#EXTINF:-1 tvg-id="拆弹专家2" tvg-name="拆弹专家2" tvg-logo="https://live.fanmingming.com/tv/拆弹专家2.png" group-title="经典电影",拆弹专家2
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+#EXTINF:-1 tvg-id="我不是药神" tvg-name="我不是药神" tvg-logo="https://live.fanmingming.com/tv/我不是药神.png" group-title="经典电影",我不是药神
+https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+#EXTINF:-1 tvg-id="卧虎藏龙" tvg-name="卧虎藏龙" tvg-logo="https://live.fanmingming.com/tv/卧虎藏龙.png" group-title="经典电影",卧虎藏龙
+https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+#EXTINF:-1 tvg-id="满城尽带黄金甲" tvg-name="满城尽带黄金甲" tvg-logo="https://live.fanmingming.com/tv/满城尽带黄金甲.png" group-title="经典电影",满城尽带黄金甲
+https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
+#EXTINF:-1 tvg-id="大话西游至尊宝" tvg-name="大话西游至尊宝" tvg-logo="https://live.fanmingming.com/tv/大话西游至尊宝.png" group-title="经典电影",大话西游至尊宝
+http://nas.dylove.xyz:35455/yy/1382736910
+#EXTINF:-1 tvg-id="美国队长史蒂夫" tvg-name="美国队长史蒂夫" tvg-logo="https://live.fanmingming.com/tv/美国队长史蒂夫.png" group-title="经典电影",美国队长史蒂夫
+http://nas.dylove.xyz:35455/yy/1382736813
+#EXTINF:-1 tvg-id="变形金刚" tvg-name="变形金刚" tvg-logo="https://live.fanmingming.com/tv/变形金刚.png" group-title="经典电影",变形金刚
+http://nas.dylove.xyz:35455/yy/1382736803
+#EXTINF:-1 tvg-id="赛车" tvg-name="赛车" tvg-logo="https://live.fanmingming.com/tv/赛车.png" group-title="经典电影",赛车
+http://cfss.cc/cdn/hy/11279247.flv
+#EXTINF:-1 tvg-id="死神来了" tvg-name="死神来了" tvg-logo="https://live.fanmingming.com/tv/死神来了.png" group-title="经典电影",死神来了
+http://cfss.cc/cdn/hy/11352903.flv
