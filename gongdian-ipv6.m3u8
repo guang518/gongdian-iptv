@@ -204,8 +204,14 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/32
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://221.213.69.82:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+http://119.163.199.98:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.61.236.247:9081/hls/44/index.m3u8
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000034
+http://61.138.128.226:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.dsmcloud.top:8888/udp/239.81.0.107:4056
+http://61.136.67.238:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.0.78.198:1681/hls/10239/index.m3u8
+http://124.94.193.136:9902/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 http://222.241.154.37:9901/tsfile/live/23039_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
