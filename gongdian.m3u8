@@ -3,12 +3,11 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
 http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-http://120.77.28.4:8648/mgu.php?id=cctv1
-http://219.159.147.195:9901/tsfile/live/1013_1.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
 http://1.183.141.194:8001/hls/1/index.m3u8
 http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://219.159.147.195:9901/tsfile/live/1013_1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://1.183.141.194:8001/hls/2/index.m3u8
