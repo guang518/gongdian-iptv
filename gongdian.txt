@@ -158,6 +158,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 东方卫视,http://223.151.51.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://119.98.133.130:4000/rtp/239.69.1.173:10674
 东方卫视,http://60.10.135.181:555/udp/239.253.92.89:8019
+东方卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000518
 
 东南卫视,http://101.27.36.164:2888/hls/23/index.m3u8
 东南卫视,http://183.94.1.118:8801/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
