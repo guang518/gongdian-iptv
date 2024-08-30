@@ -70,7 +70,6 @@ http://110.189.102.15:9901/tsfile/live/0008_1.m3u8?key=txiptv
 http://120.77.28.4:8648/mgu.php?id=cctv8
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://58.19.38.162:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 https://stream1.freetv.fun/d679147e93998024df6b15ec6ed8bb75dc84568fd0ef46e20df4882a00ed1200.m3u8
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000505
 http://mdxgh.tpddns.cn:88/mdxgh/cctv9
@@ -81,9 +80,8 @@ http://60.10.139.10:8801/hls/9/index.m3u8
 http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://58.19.38.162:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-http://php.jdshipin.com/TVOD/gsyd.php?id=9900000506
 http://36.248.137.69:60033/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000506
 http://120.77.28.4:8648/mgu.php?id=cctv10
 http://58.48.37.158:1111/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 
