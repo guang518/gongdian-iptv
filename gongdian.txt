@@ -67,9 +67,8 @@ CCTV9,http://111.160.17.2:59901/tsfile/live/0009_1.m3u8
 CCTV9,http://60.10.139.10:8801/hls/9/index.m3u8
 CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
 
-CCTV10,http://58.19.38.162:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000506
 CCTV10,http://36.248.137.69:60033/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000506
 CCTV10,http://120.77.28.4:8648/mgu.php?id=cctv10
 CCTV10,http://58.48.37.158:1111/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 
