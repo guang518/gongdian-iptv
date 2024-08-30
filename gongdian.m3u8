@@ -193,6 +193,7 @@ http://61.163.181.78:9901/tsfile/live/1036_1.m3u8
 http://223.151.51.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 http://119.98.133.130:4000/rtp/239.69.1.173:10674
 http://60.10.135.181:555/udp/239.253.92.89:8019
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000518
 
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://101.27.36.164:2888/hls/23/index.m3u8
