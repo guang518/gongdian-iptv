@@ -3,45 +3,49 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://60.208.104.234:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-http://120.77.28.4:8648/mgu.php?id=cctv1
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
 http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+http://1.183.141.194:8001/hls/1/index.m3u8
+http://120.77.28.4:8648/mgu.php?id=cctv1
 http://219.159.147.195:9901/tsfile/live/1013_1.m3u8
+http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://219.159.147.195:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://110.189.102.15:9901/tsfile/live/0002_1.m3u8?key=txiptv
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000502
+http://1.183.141.194:8001/hls/2/index.m3u8
 http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://219.159.147.195:9901/tsfile/live/1019_1.m3u8
 http://fangke.blueswords.com:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-http://1.183.141.194:8001/hls/2/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://111.9.163.109:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 http://61.163.181.78:9901/tsfile/live/0003_1.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000003
 http://www.745612.xyz:7788/rtp/235.254.198.53:1488
-http://110.189.102.15:9901/tsfile/live/0003_1.m3u8?key=txiptv
 http://183.94.1.118:8801/tsfile/live/0003_1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://61.157.139.15:9901/tsfile/live/2374_1.m3u8?key=txiptv&playlive=1&authid=0
-http://60.208.104.234:352/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 http://61.136.67.238:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://183.94.1.118:8801/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000503
+http://124.94.193.136:9902/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://61.157.139.15:9901/tsfile/live/2374_1.m3u8?key=txiptv&playlive=1&authid=0
 http://zmcy.gzcy020.cn:50000/udp/239.77.1.166:5146
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://110.189.102.15:9901/tsfile/live/0005_1.m3u8?key=txiptv
-http://112.46.85.60:8009/hls/503/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000005
 http://219.159.147.195:9901/tsfile/live/1006_1.m3u8
+http://120.77.28.4:8648/mgu.php?id=cctv5
+http://112.46.85.60:8009/hls/503/index.m3u8
 http://110.178.38.156:8083/udp/239.1.1.11:8011
 http://58.220.219.14:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 http://60.10.139.10:8801/hls/5/index.m3u8
+http://60.12.183.46:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://61.163.181.78:9901/tsfile/live/0016_1.m3u8
-http://60.208.104.234:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 http://119.163.199.98:9901/tsfile/live/0016_2.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000507
 http://120.77.28.4:8648/mgu.php?id=cctv5p
 http://1.24.190.98:10080/hls/16/index.m3u8
 http://61.136.67.238:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -49,90 +53,101 @@ http://61.136.67.238:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-http://home.oxtv.top:5066/udp/239.21.2.47:5002
-http://112.123.206.32:808/hls/7/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000006
 http://183.94.1.118:8801/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://119.163.199.98:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://110.189.102.15:9901/tsfile/live/0007_1.m3u8?key=txiptv
 http://36.248.137.69:60033/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000504
 http://183.94.1.118:8801/tsfile/live/0007_1.m3u8
 http://1.183.141.194:8001/hls/7/index.m3u8
 http://60.12.183.46:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 http://61.163.181.78:9901/tsfile/live/0008_1.m3u8
-http://183.94.1.118:8801/tsfile/live/0008_1.m3u8
 http://119.98.133.130:4000/udp/239.69.1.125:10388
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000008
 http://110.189.102.15:9901/tsfile/live/0008_1.m3u8?key=txiptv
 http://120.77.28.4:8648/mgu.php?id=cctv8
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+http://58.19.38.162:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 https://stream1.freetv.fun/d679147e93998024df6b15ec6ed8bb75dc84568fd0ef46e20df4882a00ed1200.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000505
 http://mdxgh.tpddns.cn:88/mdxgh/cctv9
 http://s.cdhongyuan.cn:4022/udp/239.93.1.24:5140
-http://58.57.21.166:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.0.78.198:1681/hls/10209/index.m3u8
+http://111.160.17.2:59901/tsfile/live/0009_1.m3u8
+http://60.10.139.10:8801/hls/9/index.m3u8
+http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://60.208.104.234:352/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-http://36.248.137.69:60033/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.19.38.162:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000506
+http://36.248.137.69:60033/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.48.37.158:1111/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.77.28.4:8648/mgu.php?id=cctv10
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://60.208.104.234:352/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 http://202.100.46.58:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-http://183.94.1.118:8801/tsfile/live/0011_1.m3u8
 http://119.163.199.98:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000508
 http://61.157.139.15:9901/tsfile/live/2381_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.138.216.44:9902/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
 http://61.163.181.78:9901/tsfile/live/0012_1.m3u8
 http://61.157.139.15:9901/tsfile/live/2382_1.m3u8?key=txiptv&playlive=1&authid=0
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000509
 http://buffaloft.ignorelist.com:8888/rtp/239.3.1.64:8124
 http://120.77.28.4:8648/mgu.php?id=cctv12
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 http://110.189.102.15:9901/tsfile/live/0013_1.m3u8?key=txiptv
 http://202.100.46.58:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000510
 https://epg.pw/stream/5eff6ce6035c5ed07464e6c1a9482968c86bde95d5625615c4b87c15ef745dba.m3u8
 http://omnix.cn:4000/udp/225.1.8.168:8130
 http://124.128.73.58:9901/tsfile/live/0013_1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://60.208.104.234:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-http://61.157.139.15:9901/tsfile/live/2384_1.m3u8?key=txiptv&playlive=1&authid=0
-http://183.94.1.118:8801/tsfile/live/0014_1.m3u8
 http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000511
+http://183.94.1.118:8801/tsfile/live/0014_1.m3u8
 http://120.77.28.4:8648/mgu.php?id=cctv14
+http://61.157.139.15:9901/tsfile/live/2384_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://60.208.104.234:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 http://123.166.61.70:8003/hls/44/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000512
+http://111.160.17.2:59901/tsfile/live/0015_1.m3u8
+http://219.159.147.195:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.77.28.4:8648/mgu.php?id=cctv15
 http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://123.166.61.70:8003/hls/16/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000016
 http://110.178.52.111:8083/udp/239.1.1.122:8122
-http://110.178.38.156:8083/udp/239.1.1.122:8122
-http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 http://123.132.233.194:352/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-http://58.48.37.158:1111/tsfile/live/0017_1.m3u8
-http://60.208.104.234:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
+http://111.160.17.2:59901/tsfile/live/0019_1.m3u8
 http://120.77.28.4:8648/mgu.php?id=cctv17
+http://219.159.147.195:9901/tsfile/live/1022_1.m3u8
 
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
 
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://stream.qhbtv.com/adws/playlist.m3u8
