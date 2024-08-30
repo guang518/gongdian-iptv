@@ -226,6 +226,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 湖南卫视,http://61.162.52.6:8088/newlive/live/hls/19/live.m3u8
 湖南卫视,https://stream1.freetv.fun/f2b4f1257679ac5705b60ad927003ba3615bfa2b88e85f60f77cea00c422b661.m3u8
 湖南卫视,http://202.100.46.58:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000523
 
 吉林卫视,http://111.160.17.2:59902/tsfile/live/0116_1.m3u8
 吉林卫视,http://101.27.36.164:2888/hls/41/index.m3u8
@@ -305,6 +306,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 浙江卫视,http://119.163.199.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://61.157.139.15:9901/tsfile/live/2390_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://113.57.93.165:9900/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000531
 
 春晚,#genre#
 #EXTM3U
