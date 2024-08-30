@@ -1,10 +1,9 @@
 央视,#genre#
-CCTV1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
 CCTV1,http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://120.77.28.4:8648/mgu.php?id=cctv1
-CCTV1,http://219.159.147.195:9901/tsfile/live/1013_1.m3u8
+CCTV1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
 CCTV1,http://1.183.141.194:8001/hls/1/index.m3u8
 CCTV1,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://219.159.147.195:9901/tsfile/live/1013_1.m3u8
 
 CCTV2,http://1.183.141.194:8001/hls/2/index.m3u8
 CCTV2,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
