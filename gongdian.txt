@@ -75,11 +75,10 @@ CCTV9,http://60.10.139.10:8801/hls/9/index.m3u8
 CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
 CCTV9,http://58.19.252.68:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV10,http://36.248.137.69:60033/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://58.19.252.68:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000506
 CCTV10,http://120.77.28.4:8648/mgu.php?id=cctv10
 CCTV10,http://58.48.37.158:1111/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://58.19.252.68:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV11,http://202.100.46.58:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://119.163.199.98:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -188,9 +187,9 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+甘肃卫视,http://202.100.46.58:9901/tsfile/live/1035_1.m3u8
 甘肃卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000023
 甘肃卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031121
-甘肃卫视,http://202.100.46.58:9901/tsfile/live/1035_1.m3u8
 甘肃卫视,http://nas.hssvm.com:8888/rtp/225.1.1.159:5002
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4
 
@@ -309,9 +308,9 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 山西卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000053
 山西卫视,http://59.48.75.130:3052/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 
+陕西卫视,http://202.100.46.58:9901/tsfile/live/1017_1.m3u8
 陕西卫视,http://120.77.28.4:8648/mgu.php?id=sxws
 陕西卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000026
-陕西卫视,http://202.100.46.58:9901/tsfile/live/1017_1.m3u8
 陕西卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000007495
 陕西卫视,http://123.138.216.44:9902/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -342,9 +341,9 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 厦门卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000058
 厦门卫视,http://117.27.190.42:9998/tsfile/live/23282_1.m3u8?key=txiptv&playlive=1&authid=0
 
+新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 新疆卫视,http://php.jdshipin.com/xjtv.php?id=xjws
 新疆卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000045
-新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 
 云南卫视,http://119.163.199.98:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000035
