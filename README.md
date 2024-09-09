@@ -3,8 +3,8 @@
 ----------------------------------------------------------------------
 这里的直播源来源于各网络大神，再经过我的筛选整理所得，如果你有好的直播源，可以给我说~
 
-直播APP推荐：极致
-链接：https://pan.baidu.com/s/1Sxa3EBbM30UK4_h3TSu5tA?pwd=c8qw
+直播APP推荐：
+极致：https://pan.baidu.com/s/1Sxa3EBbM30UK4_h3TSu5tA?pwd=c8qw
 提取码：c8qw
 
 直播源：
