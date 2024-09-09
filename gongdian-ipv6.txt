@@ -104,6 +104,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
 安徽卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+安徽卫视,http://123.166.61.70:8003/hls/55/index.m3u8
 安徽卫视,http://223.151.51.74:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
@@ -182,6 +183,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 湖北卫视,http://58.51.111.46:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://183.94.1.118:8801/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 
+湖南卫视,http://123.166.61.70:8003/hls/58/index.m3u8
 湖南卫视,http://223.151.51.74:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://119.163.199.98:9901/tsfile/live/0017_1.m3u8
 湖南卫视,http://61.162.52.6:8088/newlive/live/hls/19/live.m3u8
@@ -206,6 +208,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 江西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226344/index.m3u8
 江西卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 
+辽宁卫视,http://123.166.61.70:8003/hls/20/index.m3u8
 辽宁卫视,http://101.27.36.164:2888/hls/30/index.m3u8
 辽宁卫视,http://61.157.139.15:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 
