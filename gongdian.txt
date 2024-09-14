@@ -1,12 +1,8 @@
 央视,#genre#
-CCTV1,http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://122.246.150.139:9999/udp/233.50.201.118:5140
 CCTV1,http://223.11.157.81:7777/udp/239.1.1.7:8007
 CCTV1,http://110.53.52.63:8888/newlive/live/hls/2/live.m3u8
 CCTV1,http://123.166.61.70:8003/hls/11/index.m3u8
 
-CCTV2,http://fangke.blueswords.com:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://1.180.2.93:9901/tsfile/live/1035_1.m3u8
 CCTV2,http://123.138.216.44:9902/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://120.77.28.4:8648/mgu.php?id=cctv2
 CCTV2,https://livednow.com/migu/631780532?sign=gAAAAABmwyZNSSKcXhhXZdK0XuSNBPouks3aRU5mg0SYUXksZqOKQmqx643bOPLkE1Btl-9iJUm4lHOccfzcnleD3y1KIn5J0owyyqKXNYF7h1xzuFRZvRnIQZXA7YA8ZUYgSYTGzdxYJImthu8TCbWBzq1zzQNK2MQ7pk9C80Bd-C8BFjxz2cacL59xiukxtIzYStzrzazLPAKDlDELvw-61eHlWTO1vQ%3D%3D
@@ -22,7 +18,6 @@ CCTV4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=tvbox6_com&playlive=1
 CCTV4,http://1.180.2.93:9901/tsfile/live/1063_1.m3u8
 CCTV4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://27.10.76.34:8001/udp/225.0.4.176:7980
-
 
 CCTV5,http://202.100.46.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://120.77.28.4:8648/mgu.php?id=cctv5
@@ -43,15 +38,12 @@ CCTV6,http://113.57.20.158:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&au
 CCTV6,http://59.44.102.18:8888/newlive/live/hls/8/live.m3u8
 CCTV6,http://110.53.52.63:8888/newlive/live/hls/8/live.m3u8
 
-CCTV7,http://110.189.102.15:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV7,http://36.248.137.69:60033/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://183.94.1.118:8801/tsfile/live/0007_1.m3u8
 CCTV7,http://tvbox6.icu/tv/migu.php?id=cctv7
 CCTV7,http://60.12.183.46:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7,http://116.117.105.100:4022/udp/239.125.2.63:4120
+CCTV7,http://36.248.137.69:60033/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV8,http://61.163.181.78:9901/tsfile/live/0008_1.m3u8
-CCTV8,http://110.189.102.15:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8,http://120.77.28.4:8648/mgu.php?id=cctv8
 CCTV8,http://202.100.46.58:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://42.48.17.204:808/hls/9/index.m3u8
@@ -88,12 +80,11 @@ CCTV12,http://110.53.52.63:8888/newlive/live/hls/14/live.m3u8
 CCTV12,http://222.134.245.16:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://59.44.102.18:8888/newlive/live/hls/14/live.m3u8
 
-CCTV13,http://110.53.52.63:8888/newlive/live/hls/15/live.m3u8
-CCTV13,http://219.147.200.9:18080/newlive/live/hls/14/live.m3u8
 CCTV13,http://omnix.cn:4000/udp/225.1.8.168:8130
 CCTV13,http://110.189.102.15:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV13,http://42.48.17.204:808/hls/14/index.m3u8
 CCTV13,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://110.53.52.63:8888/newlive/live/hls/15/live.m3u8
 
 CCTV14,http://183.94.1.118:8801/tsfile/live/0014_1.m3u8
 CCTV14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -106,8 +97,6 @@ CCTV15,http://110.53.52.63:8888/newlive/live/hls/17/live.m3u8
 CCTV15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://117.161.12.124/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 CCTV15,http://120.77.28.4:8648/mgu.php?id=cctv15
-CCTV15,http://nas.hssvm.com:8888/rtp/225.1.2.194:5002
-CCTV15,http://fangke.blueswords.com:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV16,http://123.166.61.70:8003/hls/16/index.m3u8
@@ -119,7 +108,6 @@ CCTV16,http://27.24.20.43:9999/udp/239.69.1.249:11136
 CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?
 
-CCTV17,http://117.161.12.124/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 CCTV17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://59.44.102.18:8888/newlive/live/hls/19/live.m3u8
 CCTV17,http://123.132.233.194:352/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -130,11 +118,13 @@ CCTV第一剧场,http://42.48.17.204:808/hls/117/index.m3u8
 CCTV第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
 
-CCTV风云剧场,http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
+CCTV风云剧场,http://www.lizhinas.top:8688/rtp/239.252.219.89:5140
+CCTV风云剧场,http://nas.hssvm.com:8888/udp/225.1.2.174:5002
 
 CCTV怀旧剧场,http://42.48.17.204:808/hls/112/index.m3u8
 
-CCTV风云音乐,http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
+CCTV风云音乐,http://www.lizhinas.top:8688/rtp/239.252.219.87:5140
+CCTV风云音乐,http://www.qhjx.top:18000/udp/238.255.2.24:5999
 
 CCTV央视台球,http://42.48.17.204:808/hls/108/index.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
@@ -143,7 +133,7 @@ CCTV央视台球,http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8
 CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云足球,http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
 
-CCTV高尔夫网球,http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
+CCTV高尔夫网球,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140
 
 CCTV世界地理,http://42.48.17.204:808/hls/109/index.m3u8
 CCTV世界地理,http://117.161.133.51:81/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV
@@ -151,12 +141,13 @@ CCTV世界地理,http://117.161.133.51:81/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.
 CCTV文化精品,http://42.48.17.204:808/hls/107/index.m3u8
 CCTV文化精品,http://117.161.133.51:81/gitv_live/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8?p=GITV
 
-CCTV兵器科技,http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV
+CCTV兵器科技,http://nas.hssvm.com:8888/udp/225.1.2.166:5002
+CCTV兵器科技,http://www.lizhinas.top:8688/rtp/239.252.219.98:5140
+CCTV兵器科技,http://www.qhjx.top:18000/udp/238.255.2.34:5999
 
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-
 
 卫视,#genre#
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
@@ -199,7 +190,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 东南卫视,http://123.138.216.44:9902/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰卫视,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰卫视资讯台,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 
 甘肃卫视,http://202.100.46.58:9901/tsfile/live/1035_1.m3u8
 甘肃卫视,http://59.44.102.18:8888/newlive/live/hls/40/live.m3u8
